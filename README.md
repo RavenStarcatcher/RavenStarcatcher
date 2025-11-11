@@ -1,7 +1,9 @@
 ## I love welcomes, so Welcome to My Profile!
 
-I gotta be honest I don't remember how markdown works at all!  
-Okay, so, I'm a junior developer and game designer for a 3d fps, and also a TTRPG game! 
+I gotta be honest I don't remember how markdown works at all!
+
+Okay, so, I'm a junior developer and game designer for a 3d fps, and also a TTRPG game!  
+Both will be available on github under GNU GPLv3 when I get around to it :)
 <!--
 **RavenStarcatcher/RavenStarcatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
